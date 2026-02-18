@@ -1,7 +1,7 @@
 ---
 slug: my-first-post
 title: My First Blog Post
-authors: Jake Butler
+authors: [jake-butler]
 tags: [Hello]
 ---
 

@@ -2,7 +2,7 @@
 slug: my-first-post
 title: My First Blog Post
 authors: Jake Butler
-tags: Hello this is my blog post for my work experience in RedHat!
+tags: [Hello]
 ---
 
 Welcome to my first blog post! This is where you will find out about my experience in Red Hat.

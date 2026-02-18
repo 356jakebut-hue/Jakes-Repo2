@@ -24,5 +24,10 @@ slorber:
     github: slorber
     newsletter: https://thisweekinreact.com
  
-JakeButler: 
-name: jake-butler
+jake-butler:
+  name: Jake Butler
+  title: Developer
+  image_url: 
+  socials:
+    github: 
+
